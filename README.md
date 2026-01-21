@@ -15,7 +15,7 @@ I enjoy working on APIs, databases, and backend architecture while continuously 
 
 ## 👯 Open to Collaboration
 - **Backend-heavy MERN stack projects**
-- **API-driven platforms** (job portals, dashboards, management systems)
+- **API-driven platforms**
 - Backend-focused **open-source contributions**
 
 ---
@@ -31,14 +31,11 @@ I enjoy working on APIs, databases, and backend architecture while continuously 
 ## 💬 Ask Me About
 - Backend development with **Node.js & Express**
 - **REST API design** and backend best practices
-- **React (intermediate)** and frontend–backend integration
 - **Java-based DSA** and problem-solving
-- Structuring **real-world backend projects**
 
 ---
 
-## ⚡ Fun Fact
-I enjoy **optimizing backend performance** more than polishing UI 😄  
+## ⚡ Fun Fact  
 I believe **strong backend architecture is the foundation of scalable products** 🚀
 
 ---
