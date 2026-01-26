@@ -1,8 +1,10 @@
 # 💫 About Me
 
 Hi, I’m **Sujal Dudhe** 👋  
-A **backend-focused developer** passionate about building **scalable, clean, and production-ready systems**.  
+A **backend-focused developer** passionate about building **scalable, clean, and production-ready web applications**.  
 I enjoy working on APIs, databases, and backend architecture while continuously improving my problem-solving skills.
+
+🔗 **Portfolio:** https://sujal-dudhe.vercel.app
 
 ---
 
@@ -14,10 +16,7 @@ I enjoy working on APIs, databases, and backend architecture while continuously 
 ---
 
 ## 👯 Open to Collaboration
-- **Backend-heavy MERN stack projects**
-- **API-driven platforms**
 - Backend-focused **open-source contributions**
-
 ---
 
 ## 🌱 Currently Learning
@@ -31,7 +30,6 @@ I enjoy working on APIs, databases, and backend architecture while continuously 
 ## 💬 Ask Me About
 - Backend development with **Node.js & Express**
 - **REST API design** and backend best practices
-- **Java-based DSA** and problem-solving
 
 ---
 
@@ -42,6 +40,7 @@ I believe **strong backend architecture is the foundation of scalable products**
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sujal-dudhe.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal_dudhe_07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-dudhe-58b710290)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IamSujal_111)
